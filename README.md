@@ -106,8 +106,8 @@ Notebook: **reference_ratio.ipynb**
 
 ## Technologies Used
 
-- Python3
-- Jupyter Notebook
+- Python3 ![Python](https://img.shields.io/badge/Python-3.13-blue)
+- Jupyter Notebook ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
