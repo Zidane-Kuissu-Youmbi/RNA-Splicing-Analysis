@@ -132,15 +132,6 @@ Concepts:
 - jupyter
 - scipy
 ---
-## Reproducibility
-
-All analyses can be reproduced starting from the raw data located in:
-
-`data/`
-
-The notebooks in the `notebooks/` directory perform the full analysis pipeline and generate the results found in `results.png`.
-
----
 
 ## Results
 
@@ -194,8 +185,6 @@ RNA-Splicing-Analysis
 │   ├── agsp7_binding_motif.ipynb
 │   ├── correlation_analysis.ipynb
 │   └── reference_ratio.ipynb
-│
-├── data
 │
 │
 ├── explain
